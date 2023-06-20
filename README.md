@@ -19,7 +19,7 @@ inputted.
 * If a number in the array contains a 3, the number is replaced with the phrase Won't you be my neighbor?, along with the inputted 'name'.
 * Any other number in the array that may not contain 1,2 or 3 will display its correct number.
 
-## TTD
+## TDD
 * Describe beepBoop();
 * Test 1: "It should return an array of numbers from 0 to user's inputted number. Code: beepBoop(5); Expected Ouput:[0,1,2,4,5]
 * Test 2: "It should return an array of numbers from 1 to user's inputted number. Code: beepBoop(5); Expected Ouput:[0,Beep,2,4,5]
